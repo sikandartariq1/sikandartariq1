@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sikandartariq1&&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sikandartariq1&title=Commit,Issues,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
