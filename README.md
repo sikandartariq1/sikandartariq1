@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sikandartariq1&&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **sikandartariq1/sikandartariq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
